@@ -1,0 +1,3 @@
+[submodule "aeroflot-frontend"]
+	path = aeroflot-frontend
+	url = https://github.com/otomir23/aeroflot-frontend
